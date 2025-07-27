@@ -14,7 +14,7 @@
     - Machine Learning and AI;
     - Big data and Optimization.
 - Database Management:
-    -   SQL Database Design & Management
+    -   SQL Database Design & Management.
 
 # ✒️Coding
 
