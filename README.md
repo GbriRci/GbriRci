@@ -1,9 +1,10 @@
 # 👋🏻 About me
-🏠 I live in the province of **Ravenna** (Italy)
-<br>👶🏻 I'm a '04 baby
-<br>🧑🏻‍🎓 Currently studying for a degree in **Tecnologie dei Sistemi Informatici**, Alma Mater Studiuorum (BO).
-<br>💻 Love working on the frontend of **web** and **mobile** projects
-<br>🎽 **Competitive athlete** in my spare time
+🏠 I live in the province of **Ravenna** (Italy);
+<br>👶🏻 I'm a '04 baby;
+<br>🧑🏻‍🎓 Currently studying for a degree in **Tecnologie dei Sistemi Informatici**, Alma Mater Studiuorum (BO);
+<br>💻 Love working on the frontend of **web** and **mobile** projects;
+<br>🎽 **Competitive athlete** in my spare time;
+<br>🎮Lover of old games like Final Fantasy Tactics Advance, Pokemon Pinball, Pokemon Mystery Dungeon.
 
 # 🔧Technical skills
 - Networking
